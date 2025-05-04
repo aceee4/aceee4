@@ -81,13 +81,6 @@ I'm a passionate fullstack developer with expertise in building scalable web app
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aceee4&theme=radical)
 
-## 📌 Pinned Repositories
-
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=aceee4&repo=repo1&theme=radical)](https://github.com/aceee4/repo1)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=aceee4&repo=repo2&theme=radical)](https://github.com/aceee4/repo2)
-[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=aceee4&repo=repo3&theme=radical)](https://github.com/aceee4/repo3)
-[![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=aceee4&repo=repo4&theme=radical)](https://github.com/aceee4/repo4)
-
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aceee4&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
