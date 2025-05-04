@@ -2,8 +2,6 @@
 
 ## <img alt="Waving hand" width="26" height="26" src="https://raw.githubusercontent.com/aceee4/aceee4/master/src/images/wave.gif"> Hi! I'm Ace
 
-> This is the place where I opensource stuff and break things :rofl:<br>
-
 ## [![Discord](https://img.shields.io/discord/695282860399001640?color=333&label=Chat&logo=discord&logoColor=fff&style=flat-square)](https://aceee4.dev/discord) [![GitHub followers](https://img.shields.io/github/followers/aceee4?color=333&label=Follow&logo=github&logoColor=fff&style=flat-square)](https://github.com/aceee4?tab=followers) [![Twitter Follow](https://img.shields.io/static/v1?message=Twitter&color=333&label=@majonezexe&logo=twitter&logoColor=fff&style=flat-square)](https://twitter.com/majonezexe) [![Views](https://views.aceee4.dev/api/badge/aceee4?style=flat&color=333&cache=none)](https://views.aceee4.dev) [![Wakatime Hours](https://wakatime.aceee4.dev/api/badge?style=flat-square&color=333)](https://aceee4.dev)<br><br><br>
 
 <a href="https://github.com/aceee4/discord-activity">
