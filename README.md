@@ -75,7 +75,7 @@ I'm a passionate fullstack developer with expertise in building scalable web app
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=aceee4&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aceee4&theme=dark&hide_border=true&border_radius=25)](https://git.io/streak-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aceee4&layout=compact&theme=radical)
 
