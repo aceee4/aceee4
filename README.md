@@ -77,13 +77,9 @@ I'm a passionate fullstack developer with expertise in building scalable web app
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aceee4&theme=dark&hide_border=true&border_radius=25)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aceee4&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aceee4&theme=radical)
-
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aceee4&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[[![trophy](https://github-profile-trophy.vercel.app/?username=aceee4&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)](https://github-profile-trophy.vercel.app/?username=aceee4&theme=dark)
 
 ## 📈 Contribution Graph
 
@@ -106,10 +102,6 @@ I'm a passionate fullstack developer with expertise in building scalable web app
 
 - [Email](mailto:akordi.takes.dubs@gmail.com)
 - [Instagram](https://instagram.com/too_f4st)
-
-## ⚡ Fun fact
-
-When I'm not coding, you'll find me [your hobby/interest]!
 
 ---
 
