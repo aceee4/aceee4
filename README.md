@@ -11,14 +11,14 @@ I'm a modern web developer with deep experience, especially in backend developme
 * 🚀  I'm currently working on [Repz Services](http://repz.lol)
 * 🤝  I'm open to collaborating on ANY Web Projects
 
-### Links
+### 🔗 Links
 * [Repz.lol](https://repz.lol)
 * [Password Generator](https://advanced-password-gen.vercel.app)
 
 <a href="https://www.github.com/aceee4" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/aceee4?logo=github&style=for-the-badge&color=ffffff&labelColor=22272e" /></a>
 
-### Skills
+### 💻 Skills
 
 
 <p align="left">
@@ -26,11 +26,11 @@ src="https://img.shields.io/github/followers/aceee4?logo=github&style=for-the-ba
 </p>
 
 
-### Socials
+### ✨ Socials
 
 <p align="left"> <a href="https://www.github.com/aceee4" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/too_f4st" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
+### 🏅 Badges
 
 <b>My GitHub Stats</b>
 
